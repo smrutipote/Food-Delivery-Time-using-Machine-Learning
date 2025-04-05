@@ -1,5 +1,7 @@
 Check out this project live on huggingface : https://huggingface.co/spaces/smrup/Food-Delivery-Time-Prediction-using-Machine-Learning
 
+Read the complete article with explanation of code on Medium:https://medium.com/@smruti.po1106/food-delivery-time-prediction-using-machine-learning-f421f1f80b40
+
 🛵 Food Delivery Time Predictor – Project Overview
 Objective: Predict estimated food delivery time using machine learning based on:
 
